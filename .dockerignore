@@ -1,0 +1,17 @@
+node_modules/
+.git/
+.gitignore
+
+.env
+.env.local
+
+*.log
+
+Dockerfile
+.dockerignore
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
